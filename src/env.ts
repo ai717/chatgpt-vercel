@@ -18,7 +18,6 @@ export const defaultEnv = {
     continuousDialogue: true,
     model: "gpt-3.5" as SimpleModel
   },
-  CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI Vercel
 - 本网站仅作为项目演示，不提供服务，请填入自己的 Key。
 - 点击每条消息前的头像，可以锁定对话，作为角色设定。
 - 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息。
