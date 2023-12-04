@@ -67,20 +67,20 @@ export default function Header() {
                 </span>
                 <a
                   class="ml-2 <sm:hidden"
-                  href="https://github.com/ourongxing/chatgpt-vercel"
+                  href="https://ooooooooooo.xyz/"
                 >
                   <img
                     alt="GitHub forks badge"
-                    src="https://img.shields.io/github/stars/ourongxing/chatgpt-vercel?logo=github"
+                    src="https://ooooooooooo.xyz/"
                   />
                 </a>
                 <a
                   class="ml-2"
-                  href="https://github.com/ourongxing/chatgpt-vercel/fork"
+                  href="https://ooooooooooo.xyz/"
                 >
                   <img
                     alt="GitHub forks badge"
-                    src="https://img.shields.io/github/forks/ourongxing/chatgpt-vercel?logo=github"
+                    src="https://ooooooooooo.xyz/"
                   />
                 </a>
               </>
